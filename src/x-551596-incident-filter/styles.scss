@@ -1,0 +1,13 @@
+@import '@servicenow/sass-kit/host';
+
+
+
+    .modal__item {
+        color: #1919a3;
+        border: 1px solid #b53757;
+        padding: 7px 17px;
+    }
+    .modal__item--title {
+        border-bottom: 1px solid rgb(0, 0, 0);
+      padding-bottom: 5px;
+    }

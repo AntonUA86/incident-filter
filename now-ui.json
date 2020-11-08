@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "x-551596-incident-filter": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "My Component",
+				"icon": "document-outline",
+				"description": "A description of my component",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_551596_test_in_3"
+}
